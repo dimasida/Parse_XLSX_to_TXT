@@ -1,0 +1,3 @@
+C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\obj\Debug\netcoreapp3.0\Parse_XLSX_to_TXT.csprojAssemblyReference.cache
+C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\obj\Debug\netcoreapp3.0\Parse_XLSX_to_TXT.AssemblyInfoInputs.cache
+C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\obj\Debug\netcoreapp3.0\Parse_XLSX_to_TXT.AssemblyInfo.cs

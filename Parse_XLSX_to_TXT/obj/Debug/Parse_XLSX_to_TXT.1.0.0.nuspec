@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Parse_XLSX_to_TXT</id>
+    <version>1.0.0</version>
+    <authors>Parse_XLSX_to_TXT</authors>
+    <owners>Parse_XLSX_to_TXT</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\bin\Debug\netcoreapp3.1\Parse_XLSX_to_TXT.runtimeconfig.json" target="lib\netcoreapp3.1\Parse_XLSX_to_TXT.runtimeconfig.json" />
+    <file src="C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\bin\Debug\netcoreapp3.1\Parse_XLSX_to_TXT.dll" target="lib\netcoreapp3.1\Parse_XLSX_to_TXT.dll" />
+  </files>
+</package>

@@ -1,0 +1,17 @@
+C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\obj\Debug\netcoreapp3.1\Parse_XLSX_to_TXT.AssemblyInfoInputs.cache
+C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\obj\Debug\netcoreapp3.1\Parse_XLSX_to_TXT.AssemblyInfo.cs
+C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\obj\Debug\netcoreapp3.1\Parse_XLSX_to_TXT.csproj.ResolveComReference.cache
+C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\bin\Debug\netcoreapp3.1\Parse_XLSX_to_TXT.exe
+C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\bin\Debug\netcoreapp3.1\Parse_XLSX_to_TXT.deps.json
+C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\bin\Debug\netcoreapp3.1\Parse_XLSX_to_TXT.runtimeconfig.json
+C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\bin\Debug\netcoreapp3.1\Parse_XLSX_to_TXT.runtimeconfig.dev.json
+C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\bin\Debug\netcoreapp3.1\Parse_XLSX_to_TXT.dll
+C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\bin\Debug\netcoreapp3.1\Parse_XLSX_to_TXT.pdb
+C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll
+C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll
+C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\obj\Debug\netcoreapp3.1\Parse_XLSX_to_TXT.csproj.CopyComplete
+C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\obj\Debug\netcoreapp3.1\Parse_XLSX_to_TXT.dll
+C:\Users\Alya\source\repos\Parse_XLSX_to_TXT\Parse_XLSX_to_TXT\obj\Debug\netcoreapp3.1\Parse_XLSX_to_TXT.pdb
